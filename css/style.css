@@ -2825,3 +2825,7 @@ a.view-details-link:hover span {
     border-left: 8px solid transparent;
     top: -8px;
 }
+
+.top-button {
+  margin-bottom: 20px;
+}
